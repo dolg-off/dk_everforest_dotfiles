@@ -1,11 +1,4 @@
-## GALLERY
-<img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/1.png" width="400" lign="center">  <img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/2.png" width="400" lign="center">
 
-<img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/3.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/4.png" width="400" lign="center">
-
-<img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/5.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/6.png" width="400" lign="center">
-
-<img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/7.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/8.png" width="400" lign="center">
 
   
 ## INFO
@@ -15,12 +8,12 @@
 |Bar|[Polybar](https://github.com/polybar/polybar)|
 |Terminal|[Alacritty](https://github.com/alacritty/alacritty)|
 |Shell|[Fish](https://fishshell.com/)|
-|Icon|[Catppuccin Icon Theme](https://www.gnome-look.org/p/1715570)|
-|GTK3|[Catppuccine GTK Theme](https://www.gnome-look.org/p/1715554/)|
-|Fonts|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
-|Fonts 2|[JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/JetBrainsMono.zip)|
+|Icon|[Tela-icon](https://github.com/vinceliuice/Tela-icon-theme)|
+|GTK3|[Everforest-GTK-Theme](https://github.com/Fausto-Korpsvart/Everforest-GTK-Theme)|
+|Fonts|[Monaco](https://github.com/taodongl/monaco.ttf)|
+|Fonts 2|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
 |Picom|[yshui](https://github.com/yshui/picom)|
-|FireFox|[Catppuccine Rosewater](https://github.com/catppuccin/firefox/releases/download/old/catppuccin_mocha_rosewater.xpi)|
+|FireFox|[Everforest Dark](https://addons.mozilla.org/ru/firefox/addon/everforest-dark-official/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)|
 |Launcher|[dmenu](https://git.suckless.org/dmenu/)|
   
 ## INSTALL
@@ -123,7 +116,6 @@ end
 ## Permission
 ```bash
 chmod +x .config/polybar/*.sh
-chmod +x .config/rofi/scripts/*.sh
 chmod +x .config/picom/picom.sh
 chmod +x .config/ranger/scope.sh
 chmod +x .config/ranger/plugins/ranger_devicons/*
