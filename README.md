@@ -51,7 +51,9 @@ systemctl enable dhcpcd
 ```  
 
 ## KEYBOARD  
-sudo nano /etc/X11/xorg.conf.d/00-keyboard.conf  
+```bash
+sudo nano /etc/X11/xorg.conf.d/00-keyboard.conf
+```
 ```bash
 Section "InputClass"  
     Identifier "system-keyboard"  
